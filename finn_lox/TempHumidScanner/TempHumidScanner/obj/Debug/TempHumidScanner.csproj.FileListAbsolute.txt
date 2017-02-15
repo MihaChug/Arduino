@@ -1,0 +1,9 @@
+C:\Users\mihac\OneDrive\Документы\Arduino\finn_lox\TempHumidScanner\TempHumidScanner\bin\Debug\TempHumidScanner.exe.config
+C:\Users\mihac\OneDrive\Документы\Arduino\finn_lox\TempHumidScanner\TempHumidScanner\bin\Debug\TempHumidScanner.exe
+C:\Users\mihac\OneDrive\Документы\Arduino\finn_lox\TempHumidScanner\TempHumidScanner\bin\Debug\TempHumidScanner.pdb
+C:\Users\mihac\OneDrive\Документы\Arduino\finn_lox\TempHumidScanner\TempHumidScanner\obj\Debug\TempHumidScanner.csprojResolveAssemblyReference.cache
+C:\Users\mihac\OneDrive\Документы\Arduino\finn_lox\TempHumidScanner\TempHumidScanner\obj\Debug\TempHumidScanner.Form1.resources
+C:\Users\mihac\OneDrive\Документы\Arduino\finn_lox\TempHumidScanner\TempHumidScanner\obj\Debug\TempHumidScanner.Properties.Resources.resources
+C:\Users\mihac\OneDrive\Документы\Arduino\finn_lox\TempHumidScanner\TempHumidScanner\obj\Debug\TempHumidScanner.csproj.GenerateResource.Cache
+C:\Users\mihac\OneDrive\Документы\Arduino\finn_lox\TempHumidScanner\TempHumidScanner\obj\Debug\TempHumidScanner.exe
+C:\Users\mihac\OneDrive\Документы\Arduino\finn_lox\TempHumidScanner\TempHumidScanner\obj\Debug\TempHumidScanner.pdb
